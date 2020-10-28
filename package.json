@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/SOHU-co/kafka-node/issues"
   },
-  "version": "3.0.2",
+  "version": "3.0.3",
   "main": "kafka.js",
   "types": "types/index.d.ts",
   "license": "MIT",
